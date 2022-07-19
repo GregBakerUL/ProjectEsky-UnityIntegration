@@ -10896,6 +10896,7 @@ MonoBehaviour:
   v1WindowManager: {fileID: 0}
   v1Renderer: {fileID: 0}
   intelRealsenseTracker: {fileID: 1108374288927384702}
+  eskyTrackerX: {fileID: 0}
   nativeDirectXrenderer: {fileID: 2890445241416919790}
   RGBSensorModule: {fileID: 1028522048054681457}
   LeapMotionController: {fileID: 2225884142245623700}
@@ -11445,7 +11446,7 @@ MonoBehaviour:
     RightRenderTexture: {fileID: 0}
     LeftCamera: {fileID: 1353376736918173088}
     RightCamera: {fileID: 4402976967670336123}
-    RequiresRotation: 1
+    RequiresRotation: 0
     LeftProjectionMatrix: []
     RightProjectionMatrix: []
     LeftInvProjectionMatrix: []
@@ -11487,6 +11488,7 @@ MonoBehaviour:
     localRotationLeapMotion: []
   LeapMotionCamera: {fileID: 4134478102618409205}
   myAttachedTracker: {fileID: 1108374288927384702}
+  myAttachedTrackerX: {fileID: 0}
   RigCenter: {fileID: 0}
   RenderedGraphicsBrightness: 1
   TargetRendererRate: 120
